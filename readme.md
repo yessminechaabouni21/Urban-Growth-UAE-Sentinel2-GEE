@@ -83,7 +83,7 @@ Manual digitization of reference polygons (Urban, Vegetation, Bare Soil, Water)
 Pixel‑based sampling strategy
 
 Supervised Classification
-
+result: ( images/manual.png)
 Random Forest classifier
 
 Input features: spectral bands + spectral indices
@@ -133,6 +133,7 @@ Spectral index visualization (NDVI, NDBI, BUI, MNDWI)
 Urban growth statistics and charts
 
 Exportable results for further analysis
+result:( images/dashboard2.png )
 
 🚧 Challenges & Limitations
 Spectral confusion between urban and bare soil in desert environments
@@ -160,4 +161,5 @@ Sahar Feki
 📄 License & Academic Use
 This project was developed as an academic capstone project.
 All scripts and outputs are provided for research and educational purposes.
+
 
